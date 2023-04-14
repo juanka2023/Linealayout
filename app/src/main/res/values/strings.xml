@@ -18,6 +18,7 @@
     <string name="dividir">/</string>
     <string name="igual">=</string>
     <string name="restaurarvalores">restaurar valores</string>
+    <string name="borrar">C</string>
 
 
 </resources>
